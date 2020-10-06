@@ -1,4 +1,4 @@
-# Liste des sujets de l'oral 1 de CAPES de mathématiques (archive)
+# Listes des sujets de l'oral 1 de CAPES de mathématiques (archives)
 
 [voir/corriger sur Github](https://github.com/ktzanev/O1CapesMath)
 
