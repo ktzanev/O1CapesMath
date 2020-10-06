@@ -1,0 +1,39 @@
+﻿1. Expérience aléatoire, probabilité, probabilité conditionnelle.
+2. Variables aléatoires discrètes.
+3. Variables aléatoires réelles à densité.
+4. Statistique à une ou deux variables, représentation et analyse de données.
+5. Multiples et diviseurs dans N, nombres premiers.
+6. PGCD et PPCM dans Z. Applications.
+7. Congruences dans Z. Applications.
+8. Forme trigonométrique d’un nombre complexe. Applications.
+9. Trigonométrie. Applications.
+10. Géométrie vectorielle dans le plan et dans l’espace.
+11. Repérage dans le plan, dans l’espace, sur une sphère.
+12. Droites et plans dans l’espace.
+13. Transformations du plan. Frises et pavages.
+14. Relations métriques et angulaires dans le triangle.
+15. Solides de l’espace : représentations et calculs de volumes.
+16. Périmètres, aires, volumes.
+17. Produit scalaire dans le plan. Applications.
+18. Applications de la notion de proportionnalité à la géométrie.
+19. Problèmes de constructions géométriques.
+20. Problèmes d’alignement, de parallélisme, d’intersection.
+21. Proportionnalité et linéarité. Applications.
+22. Pourcentages et taux d’évolution. Applications.
+23. Systèmes d’équations linéaires et systèmes d’inéquations linéaires. Applications.
+24. Problèmes conduisant à une modélisation par des équations ou des inéquations.
+25. Problèmes conduisant à une modélisation par des matrices.
+26. Problèmes conduisant à l’utilisation d’algorithmes.
+27. Différents types de raisonnement en mathématiques.
+28. Applications des mathématiques à d’autres disciplines.
+29. Fonctions polynômes du second degré. Équations et inéquations du second degré. Applications.
+30. Suites numériques. Limites.
+31. Suites définies par récurrence un+1 = f (un). Applications.
+32. Limite d’une fonction réelle de variable réelle.
+33. Théorème des valeurs intermédiaires. Applications.
+34. Nombre dérivé. Fonction dérivée. Applications.
+35. Fonctions exponentielle et logarithme népérien. Applications.
+36. Intégrales, primitives.
+37. Exemples de calculs d’intégrales (méthodes exactes, méthodes approchées).
+38. Exemples de résolution d’équations (méthodes exactes, méthodes approchées).
+39. Problèmes conduisant à une modélisation par des suites ou par des fonctions.
