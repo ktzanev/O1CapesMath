@@ -1,0 +1,43 @@
+﻿01. Exemples de dénombrements dans différentes situations.
+02. Expérience aléatoire, probabilité, probabilité conditionnelle.
+03. Variables aléatoires discrètes.
+04. Variables aléatoires réelles à densité.
+05. Statistique à une ou deux variables, représentation et analyse de données.
+06. Multiples et diviseurs dans N, nombres premiers.
+07. PGCD et PPCM dans Z. Applications.
+08. Congruences dans Z. Applications.
+09. Différentes écritures d’un nombre complexe. Applications.
+10. Utilisation des nombres complexes en géométrie. Applications
+11. Trigonométrie. Applications.
+12. Géométrie vectorielle dans le plan et dans l’espace.
+13. Repérage dans le plan, dans l’espace, sur une sphère.
+14. Droites et plans dans l’espace.
+15. Transformations du plan. Frises et pavages.
+16. Relations métriques et angulaires dans le triangle.
+17. Solides de l’espace : représentations et calculs de volumes.
+18. Périmètres, aires, volumes.
+19. Produit scalaire dans le plan. Applications.
+20. Applications de la notion de proportionnalité à la géométrie.
+21. Problèmes de constructions géométriques.
+22. Problèmes d’alignement, de parallélisme, d’intersection.
+23. Proportionnalité et linéarité. Applications.
+24. Pourcentages et taux d’évolution. Applications.
+25. Systèmes d’équations linéaires et systèmes d’inéquations linéaires. Applications.
+26. Problèmes conduisant à une modélisation par des équations ou des inéquations.
+27. Problèmes conduisant à une modélisation par des graphes ou par des matrices.
+28. Problèmes conduisant à l’utilisation d’algorithmes.
+29. Différents types de raisonnement en mathématiques.
+30. Applications des mathématiques à d’autres disciplines.
+31. Fonctions polynômes du second degré. Équations et inéquations du second degré. Applications.
+32. Suites numériques. Limites.
+33. Suites définies par récurrence un+1 = f (un). Applications.
+34. Limite d’une fonction réelle de variable réelle.
+35. Théorème des valeurs intermédiaires. Applications.
+36. Nombre dérivé. Fonction dérivée. Applications.
+37. Fonctions exponentielle et logarithme népérien. Applications.
+38. Fonctions convexes. Applications.
+39. Primitives, équations différentielles.
+40. Intégrales, primitives.
+41. Exemples de calculs d’intégrales (méthodes exactes, méthodes approchées).
+42. Exemples de résolution d’équations (méthodes exactes, méthodes approchées).
+43. Exemples de modèles d’évolution.

@@ -1,0 +1,44 @@
+﻿01. Exemples de dénombrements dans différentes situations.
+02. Expérience aléatoire, probabilité, probabilité conditionnelle.
+03. Variables aléatoires discrètes.
+04. Variables aléatoires réelles à densité.
+05. Statistique à une ou deux variables, représentation et analyse de données.
+06. Multiples et diviseurs dans N, nombres premiers.
+07. PGCD et PPCM dans Z.
+08. Congruences dans Z.
+09. Différentes écritures d'un nombre complexe.
+10. Utilisation des nombres complexes en géométrie.
+11. Trigonométrie.
+12. Repérage dans le plan, dans l'espace, sur une sphère.
+13. Droites et plans dans l'espace.
+14. Transformations du plan. Frises et pavages.
+15. Relations métriques et angulaires dans le triangle.
+16. Solides de l'espace : représentations et calculs de volumes.
+17. Périmètres, aires, volumes.
+18. Exemples de résolution de problèmes de géométrie plane à l'aide des vecteurs.
+19. Produit scalaire dans le plan.
+20. Applications de la notion de proportionnalité à la géométrie.
+21. Problèmes de constructions géométriques.
+22. Exemples de problèmes d'alignement, de parallélisme.
+23. Exemples de problèmes d'intersection en géométrie.
+24. Pourcentages et taux d'évolution.
+25. Problèmes conduisant à une modélisation par des équations ou des inéquations.
+26. Problèmes conduisant à une modélisation par des graphes, par des matrices.
+27. Fonctions polynômes du second degré. Équations et inéquations du second degré.
+28. Suites numériques. Limites.
+29. Suites définies par récurrence un+1 = f(un).
+30. Détermination de limites de fonctions réelles de variable réelle.
+31. Théorème des valeurs intermédiaires.
+32. Nombre dérivé. Fonction dérivée.
+33. Fonctions exponentielles.
+34. Fonctions logarithmes.
+35. Fonctions convexes.
+36. Primitives, équations différentielles.
+37. Intégrales, primitives.
+38. Exemples de calculs d'intégrales (méthodes exactes, méthodes approchées).
+39. Exemples de résolution d'équations (méthodes exactes, méthodes approchées).
+40. Exemples de modèles d'évolution.
+41. Problèmes dont la résolution fait intervenir un algorithme.
+42. Différents types de raisonnement en mathématiques.
+43. Exemples d'approche historique de notions mathématiques enseignées au collège, au lycée.
+44. Applications des mathématiques à d'autres disciplines.
