@@ -2,6 +2,7 @@
 
 [voir/corriger sur Github](https://github.com/ktzanev/O1CapesMath)
 
+- Liste des leçons CAPES de Mathématiques 2025 [[pdf](Lecons_O1CapesMath_2025.pdf)] [[txt](Lecons_O1CapesMath_2025.txt)]
 - Liste des leçons CAPES de Mathématiques 2024 [[pdf](Lecons_O1CapesMath_2024.pdf)] [[txt](Lecons_O1CapesMath_2024.txt)]
 - Liste des leçons CAPES de Mathématiques 2023 [[pdf](Lecons_O1CapesMath_2023.pdf)] [[txt](Lecons_O1CapesMath_2023.txt)]
 - Liste des leçons CAPES de Mathématiques 2022 [[pdf](Lecons_O1CapesMath_2022.pdf)] [[txt](Lecons_O1CapesMath_2022.txt)]
